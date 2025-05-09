@@ -64,11 +64,7 @@ We explore two graph construction methods:
 - All node coordinates were mapped in real voxel space using donor-native atlases
 - Center slices in the x/y/z planes were selected to resemble those in the original paper
 
-## File Structure
 
-- `sparse_simplex_model.ipynb` — Full end-to-end pipeline
-- `connectome_utils.py` — Plotting and optimization helpers
-- `README.md` — Project overview and documentation
 
 ## Citation
 
